@@ -1,0 +1,17 @@
+C:\Users\OSVALDO KURNIAWAN\Documents\Semester 5\PBKK\Kuliah2.1\Kuliah2.1\obj\Debug\net6.0-windows\Kuliah2.1.csproj.AssemblyReference.cache
+C:\Users\OSVALDO KURNIAWAN\Documents\Semester 5\PBKK\Kuliah2.1\Kuliah2.1\obj\Debug\net6.0-windows\Kuliah2._1.Form1.resources
+C:\Users\OSVALDO KURNIAWAN\Documents\Semester 5\PBKK\Kuliah2.1\Kuliah2.1\obj\Debug\net6.0-windows\Kuliah2.1.csproj.GenerateResource.cache
+C:\Users\OSVALDO KURNIAWAN\Documents\Semester 5\PBKK\Kuliah2.1\Kuliah2.1\obj\Debug\net6.0-windows\Kuliah2.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OSVALDO KURNIAWAN\Documents\Semester 5\PBKK\Kuliah2.1\Kuliah2.1\obj\Debug\net6.0-windows\Kuliah2.1.AssemblyInfoInputs.cache
+C:\Users\OSVALDO KURNIAWAN\Documents\Semester 5\PBKK\Kuliah2.1\Kuliah2.1\obj\Debug\net6.0-windows\Kuliah2.1.AssemblyInfo.cs
+C:\Users\OSVALDO KURNIAWAN\Documents\Semester 5\PBKK\Kuliah2.1\Kuliah2.1\obj\Debug\net6.0-windows\Kuliah2.1.csproj.CoreCompileInputs.cache
+C:\Users\OSVALDO KURNIAWAN\Documents\Semester 5\PBKK\Kuliah2.1\Kuliah2.1\bin\Debug\net6.0-windows\Kuliah2.1.exe
+C:\Users\OSVALDO KURNIAWAN\Documents\Semester 5\PBKK\Kuliah2.1\Kuliah2.1\bin\Debug\net6.0-windows\Kuliah2.1.deps.json
+C:\Users\OSVALDO KURNIAWAN\Documents\Semester 5\PBKK\Kuliah2.1\Kuliah2.1\bin\Debug\net6.0-windows\Kuliah2.1.runtimeconfig.json
+C:\Users\OSVALDO KURNIAWAN\Documents\Semester 5\PBKK\Kuliah2.1\Kuliah2.1\bin\Debug\net6.0-windows\Kuliah2.1.dll
+C:\Users\OSVALDO KURNIAWAN\Documents\Semester 5\PBKK\Kuliah2.1\Kuliah2.1\bin\Debug\net6.0-windows\Kuliah2.1.pdb
+C:\Users\OSVALDO KURNIAWAN\Documents\Semester 5\PBKK\Kuliah2.1\Kuliah2.1\obj\Debug\net6.0-windows\Kuliah2.1.dll
+C:\Users\OSVALDO KURNIAWAN\Documents\Semester 5\PBKK\Kuliah2.1\Kuliah2.1\obj\Debug\net6.0-windows\refint\Kuliah2.1.dll
+C:\Users\OSVALDO KURNIAWAN\Documents\Semester 5\PBKK\Kuliah2.1\Kuliah2.1\obj\Debug\net6.0-windows\Kuliah2.1.pdb
+C:\Users\OSVALDO KURNIAWAN\Documents\Semester 5\PBKK\Kuliah2.1\Kuliah2.1\obj\Debug\net6.0-windows\Kuliah2.1.genruntimeconfig.cache
+C:\Users\OSVALDO KURNIAWAN\Documents\Semester 5\PBKK\Kuliah2.1\Kuliah2.1\obj\Debug\net6.0-windows\ref\Kuliah2.1.dll

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "OrZSD38sqOw8hzrRr7MxnpnR8xj+VNjguvWaxTWBSi7yWw4B6pxMaAQxFUcJAIT0tQcp/0aQQ93JyE+NI43z7Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\OSVALDO KURNIAWAN\\Documents\\Semester 5\\PBKK\\Kuliah2.2\\Kuliah2.2\\Kuliah2.2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\OSVALDO KURNIAWAN\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.21\\microsoft.windowsdesktop.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\OSVALDO KURNIAWAN\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.21\\microsoft.netcore.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\OSVALDO KURNIAWAN\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.21\\microsoft.aspnetcore.app.ref.6.0.21.nupkg.sha512",
+    "C:\\Users\\OSVALDO KURNIAWAN\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.21\\microsoft.netcore.app.host.win-x64.6.0.21.nupkg.sha512"
+  ],
+  "logs": []
+}
